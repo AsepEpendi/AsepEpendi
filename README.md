@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 I’m currently working in ASEP IT</p>
+<p align="left">👨‍💻 I’m currently working in D-DATA</p>
 
 ###
 
