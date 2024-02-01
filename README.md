@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">A Junior Freelancer Full Stack Developer at ASEP IT</h4>
+<h4 align="center">A Junior Freelancer Full Stack Developer at D-DATA</h4>
 
 ###
 
