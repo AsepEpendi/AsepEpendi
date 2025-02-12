@@ -72,7 +72,7 @@
     <img width="12" />
   </a>
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="40" alt="laravel logo"  />
     <img width="12" />
   </a>
   <a href="https://codeigniter.com/" target="_blank">
