@@ -100,7 +100,7 @@
     <img width="12" />
   </a>
   <a href="https://docs.github.com/en" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" height="40" alt="github logo"  />
     <img width="12" />
   </a>
   <a href="https://bitbucket.org/product/" target="_blank">
@@ -141,6 +141,9 @@
   </a>
   <a href="https://httpd.apache.org/docs/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  </a>
+  <a href="https://docs.docker.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" height="40" alt="docker logo"  />
   </a>
 </div>
 
