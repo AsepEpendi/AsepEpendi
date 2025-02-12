@@ -128,7 +128,7 @@
     <img width="12" />
   </a>
   <a href="https://help.ubuntu.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Ubuntu-logo-no-wordmark-solid-o-2022.svg" height="40" alt="ubuntu logo"  />
     <img width="12" />
   </a>
   <a href="https://getcomposer.org/doc/00-intro.md" target="_blank">
